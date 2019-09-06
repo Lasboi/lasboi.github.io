@@ -1,6 +1,6 @@
 ## Velkommen til den seje hacker side
 
-Besøg [denne side](https://mrdoob.com/projects/chromeexperiments/google-gravity/)
+Besøg [denne side](https://mrdoob.com/projects/chromeexperiments/google-gravity/){:target="_blank"}
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
